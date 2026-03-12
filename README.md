@@ -8,9 +8,5 @@ integration via ESP32 and micro-ROS, and Lyapunov stability analysis.
 - ESP32 + L298N + 2x JGA25-370 motors with encoders
 - micro-ROS over WiFi UDP
 
-## Credits
-Based on the academic work of Ferguson, Donaire, Renton & Middleton (2018).
-Original implementation reference: https://github.com/nezih-niegu/pb-j_control
-
 ## Video
 https://youtu.be/RniDI9pE5dg
